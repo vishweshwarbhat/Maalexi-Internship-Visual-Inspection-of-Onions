@@ -3,31 +3,36 @@
 ![image](https://user-images.githubusercontent.com/70502367/228473220-65e51743-811c-4bd9-87b3-50860d9f608b.png)
 
 
-**In collaboration with**
+```
+In collaboration with
+```
 
 ![image](https://user-images.githubusercontent.com/70502367/228473536-75aee696-750c-487a-81fe-6f17427d6189.png)
 
 
-**Internship Report on**
+```
+Internship Report on
+```
 
-**Create Tech Prototype**
 
-***cargo inspections of Agro-commodities at ports***
+## Create Tech Prototype
 
-**Presented by**
+### cargo inspections of Agro-commodities at ports
 
-VISHWESHWAR PARAMESHWAR BHAT
+```
+Presented by
+```
+###### VISHWESHWAR PARAMESHWAR BHAT
 
-AYUSHMAN HAZARIKA
+###### AYUSHMAN HAZARIKA
 
-ROHAN BHAGWAT
+###### ROHAN BHAGWAT
 
-T. AISHWARYA
+###### T. AISHWARYA
 
-Along with Internal Mentor
+#### Along with Internal Mentor
 
-Dr. Prashant P Patavardhan
-
+#### Dr. Prashant P Patavardhan
 
 ## Problem Statement
 
