@@ -34,24 +34,19 @@ Presented by
 
 #### Dr. Prashant P Patavardhan
 
+##### [Detailed report](https://github.com/vishweshwarbhat/Maalexi-Internship-Visual-Inspection-of-Onions/blob/main/Internship%20Report.pdf)
+
 ## Problem Statement
-
 “We would like to reduce the cost and time required to do cargo inspections of Agro-
-
 commodities at ports - perishables like onions, and mangoes, and semi-perishables like rice
-
 and wheat flour. Currently, these are done manually by experts who charge tens of thousands
-
 of rupees a day and are too expensive for smaller exporters.
 
 We would like to see a small-scale prototype of an automated or semi-automated solution.
-
 Check for quality of product, accuracy of labelling or both.”
 
 We would want to start by first taking an individual item, and the item that we have considered
-
-is **onion**. We aim at creating an automated solution to solve the problem mentioned above and
-
+is onion. We aim at creating an automated solution to solve the problem mentioned above and
 to check the quality of the onions.
  
 ## OVERVIEW
