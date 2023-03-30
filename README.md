@@ -9,12 +9,9 @@ In collaboration with
 
 ![image](https://user-images.githubusercontent.com/70502367/228473536-75aee696-750c-487a-81fe-6f17427d6189.png)
 
-
 ```
 Internship on
 ```
-
-
 ## Create Tech Prototype
 
 ### cargo inspections of Agro-commodities at ports
@@ -36,7 +33,7 @@ Presented by
 
 ##### [Detailed report](https://github.com/vishweshwarbhat/Maalexi-Internship-Visual-Inspection-of-Onions/blob/main/Internship%20Report.pdf)
 
-## Problem Statement
+## [Problem Statement](https://github.com/vishweshwarbhat/Maalexi-Internship-Visual-Inspection-of-Onions/blob/main/Internship%20Report.pdf)
 “We would like to reduce the cost and time required to do cargo inspections of Agro-
 commodities at ports - perishables like onions, and mangoes, and semi-perishables like rice
 and wheat flour. Currently, these are done manually by experts who charge tens of thousands
@@ -48,6 +45,8 @@ Check for quality of product, accuracy of labelling or both.”
 We would want to start by first taking an individual item, and the item that we have considered
 is onion. We aim at creating an automated solution to solve the problem mentioned above and
 to check the quality of the onions.
+
+[more details...](https://github.com/vishweshwarbhat/Maalexi-Internship-Visual-Inspection-of-Onions/blob/main/Internship%20Report.pdf)
  
 ## OVERVIEW
 
